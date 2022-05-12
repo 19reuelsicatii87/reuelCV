@@ -62,7 +62,7 @@ function Contact() {
                             </div>
                         </div>
                         <div className="col-md-9">
-                            <iframe width="100%" height="350" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"
+                            <iframe title="map" width="100%" height="350" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"
                                 src="https://maps.google.com/maps?q=Tower%20D%20Jazz%20Residences&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
                         </div>
                     </div>

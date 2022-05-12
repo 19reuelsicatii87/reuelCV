@@ -7,10 +7,10 @@ function Footer() {
                 <div className='row text-white'>
                     <div className='d-flex justify-content-center'>
                         <div className='' style={{ fontSize: "35px" }}>
-                            <a><i className="bi bi-linkedin mx-2"></i></a>
-                            <a><i className="bi bi-facebook mx-2"></i></a>
-                            <a><i className="bi bi-messenger mx-2"></i></a>
-                            <a><i className="bi bi-skype mx-2"></i></a>
+                            <a href=" "><i className="bi bi-linkedin mx-2"></i></a>
+                            <a href=" "><i className="bi bi-facebook mx-2"></i></a>
+                            <a href=" "><i className="bi bi-messenger mx-2"></i></a>
+                            <a href=" "><i className="bi bi-skype mx-2"></i></a>
                         </div>
                     </div>
                     <div className='row d-flex justify-content-center'>COPYRIGHTS NIMPHUS INC. ALL RIGHTS RESERVED</div>
