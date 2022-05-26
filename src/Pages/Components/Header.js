@@ -6,7 +6,7 @@ function Header() {
 
     function header() {
 
-        if (window.location.href.includes("/scrum-master")) {
+        if (window.location.href.includes("/scrummaster")) {
             return (
                 sub()
             )
@@ -70,7 +70,7 @@ function Header() {
                                             Experience
                                         </a>
                                         <ul className="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
-                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/scrum-master">Scrum Master</Link></li>
+                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/scrummaster">Scrum Master</Link></li>
                                             <li><Link className="dropdown-item nav-link text-center fw-bold" to="/test-manager">Test Manager</Link></li>
                                             <li><Link className="dropdown-item nav-link text-center fw-bold" to="/automation-architect">Automation Architect</Link></li>
                                             <li><Link className="dropdown-item nav-link text-center fw-bold" to="/fullstack-developer">Fullstack Developer</Link></li>

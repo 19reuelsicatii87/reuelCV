@@ -15,7 +15,7 @@ function App() {
 
           {/* Unprotected Routes - Business Page*/}
           {/* ============================*/}
-          <Route path='/scrum-master' element={<ScrumMaster />} />
+          <Route path='/scrummaster' element={<ScrumMaster />} />
           <Route path='/test-manager' element={<TestManager />} />
           <Route path='/automation-architect' element={<AutomationArchitect />} />
           <Route path='/fullstack-developer' element={<FullstackDeveloper />} />
