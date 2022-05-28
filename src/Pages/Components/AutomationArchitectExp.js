@@ -50,7 +50,7 @@ function AutomationArchitectExp() {
                                     <div className='col-lg-6 p-3'>
                                         <div className="card">
                                             <div className='d-flex justify-content-center p-3'>
-                                                <img src="/Images/TA_template.png" className="card-img-top"
+                                                <img src="/Images/TestAuto_Template.png" className="card-img-top"
                                                     alt="test-automation-template"></img>
                                             </div>
                                             <div className="card-body">
