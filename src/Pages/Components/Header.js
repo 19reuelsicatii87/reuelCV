@@ -11,17 +11,17 @@ function Header() {
                 sub()
             )
         }
-        else if (window.location.href.includes("/test-manager")) {
+        else if (window.location.href.includes("/testmanager")) {
             return (
                 sub()
             )
         }
-        else if (window.location.href.includes("/automation-architect")) {
+        else if (window.location.href.includes("/automationarchitect")) {
             return (
                 sub()
             )
         }
-        else if (window.location.href.includes("/fullstack-developer")) {
+        else if (window.location.href.includes("/fullstackdeveloper")) {
             return (
                 sub()
             )
@@ -71,9 +71,9 @@ function Header() {
                                         </a>
                                         <ul className="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
                                             <li><Link className="dropdown-item nav-link text-center fw-bold" to="/scrummaster">Scrum Master</Link></li>
-                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/test-manager">Test Manager</Link></li>
-                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/automation-architect">Automation Architect</Link></li>
-                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/fullstack-developer">Fullstack Developer</Link></li>
+                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/testmanager">Test Manager</Link></li>
+                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/automationarchitect">Automation Architect</Link></li>
+                                            <li><Link className="dropdown-item nav-link text-center fw-bold" to="/fullstackdeveloper">Fullstack Developer</Link></li>
                                         </ul>
                                     </li>
                                     <li className="nav-item">
