@@ -18,12 +18,10 @@ function FullstackDeveloperExp() {
                                     {" "}Activities
                                 </h2>
                                 <ul>
-                                    <li className='text-start'>Setup Test Automation Servers and install necessary applications</li>
-                                    <li className='text-start'>Design and create a Test Automation using BDD Framework using Selenium, Appium, ExtentReport, Cucumber, Maven and Jhenkin</li>
-                                    <li className='text-start'>Establish  code hosting platform for version control using GitHub or BitBucket</li>
-                                    <li className='text-start'>Execute Test Automation scripts during regression test cycles</li>
-                                    <li className='text-start'>Accurately report Test Automation progress as well as Bugs against Application Under Test</li>
-                                    <li className='text-start'>Maintain and expand Test Automation Suite based on the recent changes of Application Under Test</li>
+                                    <li className='text-start'>Manage the complete software development process from conception to deployment</li>
+                                    <li className='text-start'>Maintain and upgrade the software following deployment</li>
+                                    <li className='text-start'>Manage the end-to-end life cycle for the production of software and applications</li>
+                                    <li className='text-start'>Oversee and guide the analyzing, writing, building, and deployment of software </li>
                                 </ul>
                             </div>
                             <div className='col-lg-6 offset-lg-1'>
@@ -33,9 +31,17 @@ function FullstackDeveloperExp() {
                                     {" "}Highlights
                                 </h2>
                                 <ul>
-                                    <li className='text-start'>Captures Test Automation Report and store results in DataBase</li>
-                                    <li className='text-start'>Integrate Database with Data Studio Report that displays the summary of the current and previous test</li>
-                                    <li className='text-start'>Integrate Database with a Data Studio Report that displays the historical trend (pass or fail) per test cases</li>
+                                    <li className='text-start'>Utilize Bootstrap, ReactJS and Laravel in creating a WebApp with the following features:
+                                        <ul>
+                                            <li>Login / Logout</li>
+                                            <li>Simple Email Automation</li>
+                                            <li>Image Uploading</li>
+                                            <li>Excel Downloading</li>
+                                            <li>Manual Payment</li>
+                                            <li>Billing Gateway (paymongo)</li>
+                                            <li>CRUD on Objects (eg leads, products and packages)</li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
