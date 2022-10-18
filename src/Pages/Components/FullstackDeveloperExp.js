@@ -53,14 +53,14 @@ function FullstackDeveloperExp() {
                                     {" "}Web Application
                                 </h2>
                                 <div className='row d-flex justify-content-center'>
-                                    <div className='col-lg-6 p-3'>
+                                    <div className='col-lg-4 p-3'>
                                         <div className="card">
                                             <div className='d-flex justify-content-center p-3'>
-                                                <img src="/Images/Ecomm_logo.png" className="card-img-top"
+                                                <img src="/Images/Malasakit.png" className="card-img-top"
                                                     alt="test-automation-template"></img>
                                             </div>
                                             <div className="card-body">
-                                                <h5 className="card-title fw-bold">Ecommerce Website</h5>
+                                                <h5 className="card-title fw-bold">Networking Ecommerce Website</h5>
                                                 <p className="card-text">A WebApp where customers can place and track orders.
                                                     It is integrated to Paymongo as its Billing Gateway. In addition, its capable of
                                                     capturing leads as well as sending marketing materials.</p>
@@ -72,10 +72,10 @@ function FullstackDeveloperExp() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className='col-lg-6 p-3'>
+                                    <div className='col-lg-4 p-3'>
                                         <div className="card">
                                             <div className='d-flex justify-content-center p-3'>
-                                                <img src="/Images/CRM_logo.png" className="card-img-top"
+                                                <img src="/Images/Malasakit-Dashboard.png" className="card-img-top"
                                                     alt="test-automation-template"></img>
                                             </div>
                                             <div className="card-body">
@@ -83,6 +83,25 @@ function FullstackDeveloperExp() {
                                                 <p className="card-text">A WebApp to support the Ecommerce WebApp that serves as "Customer Relation Management".
                                                     Basic function includes CRUD of all placed orders as well as captured leads.</p>
                                                 <a href="https://malasakitoneopti.netlify.app/dashboard/login"
+                                                    className="btn btn-primary">
+                                                    Visit WebApp {" "}
+                                                    <i className="bi bi-box-arrow-in-up-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className='col-lg-4 p-3'>
+                                        <div className="card">
+                                            <div className='d-flex justify-content-center p-3'>
+                                                <img src="/Images/Everra.png" className="card-img-top"
+                                                    alt="test-automation-template"></img>
+                                            </div>
+                                            <div className="card-body">
+                                                <h5 className="card-title fw-bold">Real Estate Website</h5>
+                                                <p className="card-text">A Website where customers can view for-sale and rental listings.
+                                                    It is capable of capturing leads as well as integrated to Facebook Messenger. 
+                                                    Website's clean layout is attractive to visitors.</p>
+                                                <a href="https://everra.net/"
                                                     className="btn btn-primary">
                                                     Visit WebApp {" "}
                                                     <i className="bi bi-box-arrow-in-up-right"></i>

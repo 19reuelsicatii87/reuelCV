@@ -58,7 +58,6 @@ function TestManagerExp() {
                                     <li className='text-start'>Designed and created the team’s STLC ensuring its modular and adaptive is in accordance to Agile Manifesto; stored and secured all test assets in Shared Drive</li>
                                     <li className='text-start'>Defined and implemented the Software Development teams’ SDLC/Workflow in JIRA</li>
                                     <li className='text-start'>Designed and managed JIRA users, fields, screens, workflow, notifications and permissions</li>
-                                    <li className='text-start'>Designed and created the team’s STLC ensuring its modular and adaptive is in accordance to Agile Manifesto; stored and secured all test assets in Shared Drive</li>
                                     <li className='text-start'>Implemented “Gherkins” language in writing Test Scenarios/Cases</li>
                                     <li className='text-start'>Designed and implemented a Test Automation using HYBRID Framework using Selenium, Appium, Cucumber, Maven and Jenkins</li>
                                     <li className='text-start'>Created automated-functional Smoke and Regression Test Suite</li>
