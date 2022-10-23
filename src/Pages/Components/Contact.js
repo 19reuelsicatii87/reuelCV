@@ -23,17 +23,22 @@ function Contact() {
                                 </p>
                             </div>
                             <div className="d-flex justify-content-start">
-                                <p className='text-start text-secondary pb-0 mb-0'>
+                                <p className='text-start text-white pb-0 mb-0'>
                                     <i className="bi bi-messenger mx-2"
                                         style={{ fontSize: "16px" }}></i>
-                                    {" "} 19reuelsicatii87
+                                    {" "}
+                                    <a href="https://www.messenger.com/t/19reuelsicatii87"
+                                        className='text-white'>19reuelsicatii87
+                                    </a>
                                 </p>
                             </div>
                             <div className="d-flex justify-content-start">
-                                <p className='text-start text-secondary pb-0 mb-0'>
+                                <p className='text-start text-white pb-0 mb-0'>
                                     <i className="bi bi-skype mx-2"
                                         style={{ fontSize: "16px" }}></i>
-                                    {" "} wengsicat1
+                                    {" "} <a href="https://join.skype.com/invite/emhEVfJSHdyF"
+                                        className='text-white'>wengsicat
+                                    </a>
                                 </p>
                             </div>
                             <div className="d-flex justify-content-start">
